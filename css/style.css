@@ -1,0 +1,15 @@
+.navbar {
+  border-bottom: 5px solid rgba(0, 162, 255, 0.781);
+}
+
+nav {
+  background-color: #343a40c9 !important;
+}
+
+body {
+  height: 100vh;
+  background-image: url("/img/home.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
